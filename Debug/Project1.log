@@ -1,0 +1,6 @@
+﻿  SolidSphere.cpp
+  소스.cpp
+C:\Dev\PM\fridayLab\week_9\201416550_mission08\Project1\소스.cpp(209,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Dev\PM\fridayLab\week_9\201416550_mission08\Project1\소스.cpp(205): warning C4715: 'move_recur': not all control paths return a value
+  Project1.vcxproj -> C:\Dev\PM\fridayLab\week_9\201416550_mission08\Project1\Debug\Project1.exe
